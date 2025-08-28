@@ -1,0 +1,15 @@
+# Ignore virtual environments
+myvenv/
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore models and large files
+*.pt
+*.weights
+*.onnx
+*.mp4
+*.avi
+*.mov
